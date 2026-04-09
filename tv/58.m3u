@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 group-title="ПЕНЗА",Первый канал
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_1TV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 1
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_ROSSIA1.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Матч!
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",НТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Пятый канал
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_5TV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия К
+#EXTVLCOPT:http-user-agent=SmartTV
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Россия 24
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_ROSSIA24.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Карусель 
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ОТР 
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_OTR.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТВ Центр
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TVC.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Рен ТВ 
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Спас
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",СТС
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_STS.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Домашний 
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТВ-3
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TV3.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Мир
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Звезда
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Пятница
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",ТНТ
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_TNT.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Муз ТВ
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Экспресс (Пенза)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_EXPRESSHD.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",11 Канал (Пенза)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NASHDOMHD.m3u8
+#EXTINF:-1 group-title="РАДИО",Радио Дача (Пенза)
+http://85.140.44.162:8007/stream/2/
+#EXTINF:-1 group-title="ПЕНЗА",Че!
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_CHE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Ю
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_U.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Патриот
+#EXTVLCOPT:http-user-agent=SmartTV
+http://catchup.videoline.ru/asvtv/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Феникс плюс Кино
+#EXTVLCOPT:http-user-agent=SmartTV
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Красная линия
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_REDLINE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Кино ТВ
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_KINOTV.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Еврокино
+http://31.148.48.15/Evrokino/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",НТВ Хит
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",НТВ Сериал
+#EXTVLCOPT:http-user-agent=SmartTV
+http://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Cinema
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_CINEMA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Индия
+http://31.148.48.15/Zee_TV_Russia/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Солнце
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",СТС Love
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Суббота
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",2x2
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_2X2.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Кухня
+http://31.148.48.15/Kuhnya_TV/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Авто Плюс
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Наука 2.0
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Телепутешествия
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="ПЕНЗА",Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",РБК
+#EXTVLCOPT:http-user-agent=SmartTV
+https://raw.githubusercontent.com/userwithroot/m3u/refs/heads/main/resources/CH_RBK.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",Москва 24
+http://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",360
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",FON Music
+https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8
+#EXTINF:-1 group-title="ПЕНЗА",BRIDGE
+http://31.148.48.15/Bridge_TV/index.m3u8
