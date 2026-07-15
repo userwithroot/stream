@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:2
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6507621,CODECS="avc1.64001e",RESOLUTION=800x450,FRAME-RATE=25.000
-http://a3285275085-zabava-htlive.cdn.ngenix.net/hls/CH_TNT/video_800x450_avc1/playlist.m3u8?useseq=t&version=2
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
+http://a787200748-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8?utcstart=1608159600&version=2
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880,URI="http://a787200748-rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R01_TNT/iframes.m3u8?utcstart=1608159600&version=2"
