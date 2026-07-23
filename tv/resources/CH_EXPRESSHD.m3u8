@@ -2,4 +2,4 @@
 #EXT-X-VERSION:2
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5242880
-http://a3569458162-rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/playlist.m3u8?utcstart=1758805200&version=2
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8?utcstart=1758805200&version=2
