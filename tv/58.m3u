@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/userwithroot/stream/refs/heads/main/tv/resourc
 https://raw.githubusercontent.com/userwithroot/stream/refs/heads/main/tv/resources/CH_5TV.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия К
 #EXTVLCOPT:http-user-agent=SmartTV
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+https://raw.githubusercontent.com/userwithroot/stream/refs/heads/main/tv/resources/CH_ROSSIAK.m3u8
 #EXTINF:-1 group-title="ПЕНЗА",Россия 24
 #EXTVLCOPT:http-user-agent=SmartTV
 https://raw.githubusercontent.com/userwithroot/stream/refs/heads/main/tv/resources/CH_ROSSIA24.m3u8
